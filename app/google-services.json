@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866681257967",
+    "firebase_url": "https://rapp-2e035.firebaseio.com",
+    "project_id": "rapp-2e035",
+    "storage_bucket": "rapp-2e035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866681257967:android:2303add0dbd737fc27c01a",
+        "android_client_info": {
+          "package_name": "com.olivacebollada.rapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866681257967-apr26bcr8ogcm7r9m8ug6ck72pv9ne1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrouCNiPxfEsS8VXUuku2CyHtbL3NUsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866681257967-apr26bcr8ogcm7r9m8ug6ck72pv9ne1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
