@@ -1,4 +1,4 @@
-package com.example.rapp;
+package com.olivacebollada.rapp;
 
 import org.junit.Test;
 
