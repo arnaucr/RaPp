@@ -4,4 +4,15 @@
     <string name="title_activity_profile">Profile</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+    <string-array name="contactos">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+        <item>test4</item>
+        <item>test5</item>
+
+    </string-array>
 </resources>
